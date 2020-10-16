@@ -1,4 +1,4 @@
-
+//comment
 public class Door
 {
     private String name;
